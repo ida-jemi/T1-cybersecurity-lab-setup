@@ -35,6 +35,8 @@
 
 ping < target-ip >
 
+<img width="1919" height="1022" alt="Screenshot 2026-04-01 221703" src="https://github.com/user-attachments/assets/430a81c2-3700-4f3c-985b-7b4854f23d0c" />
+
 <h3>🐧 3. Linux Fundamentals</h3>
 
 **📁 File System**
@@ -49,11 +51,15 @@ ping < target-ip >
 * mkdir      # create folder
 * touch      # create file
 * cat        # view file
-  
+
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/29f2ab55-7af8-4a1a-9e6c-aef461cc00cf" />
+
 **🔐 Permissions**
 * ls -l
 * chmod 777 file.txt
 * sudo chown user file.txt
+
+<img width="1918" height="928" alt="image" src="https://github.com/user-attachments/assets/c8cf207d-57ee-4537-af80-76bb17287725" />
   
 **📦 Package Management**
 
@@ -104,6 +110,8 @@ ping < target-ip >
 
 ~ traceroute < ip >
 
+<img width="1653" height="860" alt="image" src="https://github.com/user-attachments/assets/9da85bfa-fe79-43b6-b812-033574b5515a" />
+
 <h3>🔐 5. Cryptography Basics</h3>
 
 **Encryption Types**
@@ -138,6 +146,8 @@ Examples:
  - nmap -sV -sC < ip >
  - nmap -A < ip >
 
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/848e333b-cf41-4a03-8f2a-f546a4d19b14" />
+
 **💣 Metasploit Framework**
  - msfconsole
  - search <exploit>
@@ -145,9 +155,13 @@ Examples:
  - set RHOSTS <ip>
  - exploit
 
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/69bdf524-2db6-44e1-851f-fbaa782bbf7f" />
+
 **🌐 Wireshark**
  - Capture network packets
  - Analyze traffic
    
 **🔌 Netcat**
  - nc < ip > < port >
+
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/28547c7c-eb5f-419c-87d6-01b7877c796c" />
